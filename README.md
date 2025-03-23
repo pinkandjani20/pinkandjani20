@@ -1,42 +1,25 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/4b/92/d4/4b92d4d1e60f5c37664a76e942a4d7bd.gif" width="300" alt="Cute Bow GIF">
-</p>
+![Image](https://github.com/user-attachments/assets/22641c6a-64e6-405f-a851-e9ae38bc92aa)
 
-# 🌸 Hi there, I'm [Nama Kamu]! 🎀
+# 🎀 Hello! I'm Pinkan Andjani 💕
 
-✨ Welcome to my cozy little space on GitHub! ✨
+Welcome to my **charming little corner** on GitHub! ✨💌
 
-I'm a passionate developer who loves coding, design, and all things pretty. I enjoy building creative and aesthetic projects while exploring new technologies. 💻💖
+I’m a **passionate developer** who loves blending elegance with technology. With a touch of softness and a sprinkle of creativity, I build dreamy, aesthetic projects. 💻🌸
 
 ---
 
-## 🛠 Tech Stack & Skills
-🎨 **Frontend**: React.js, Tailwind CSS, HTML, CSS, JavaScript  
-🖥 **Backend**: Flask, REST API  
-📦 **Database**: PostgreSQL, MySQL  
-🔧 **Tools**: Git, GitHub, Docker, Postman  
+## 💖 My Lovely Tech Stack
+![Image](https://github.com/user-attachments/assets/bacaf62b-e0f9-4c8c-9ee4-afe6bfa9d906)
 
 ---
 
-## 💕 Cute Banner 💻
-<p align="center">
-  <img src="https://i.pinimg.com/originals/3b/9e/8b/3b9e8bbf3cde6e17a0471b34b9fd1cf6.jpg" width="600" alt="Anime girl coding on laptop">
-</p>
+## 💌 Let's Connect, Sweetie!
+💼 [LinkedIn](https://www.linkedin.com/in/pinkan-andjani-3683ab356/)  
+🌷 [Email](pinkan.andjani03@gmail.com)  
 
 ---
 
-## 🎀 Find Me Here 💌
-💼 [LinkedIn](https://www.linkedin.com/in/yourname/)  
-🐦 [Twitter](https://twitter.com/yourhandle)  
-🌐 [Portfolio](https://yourwebsite.com)  
+## ✨ Soft & Sweet Thoughts
+> "Elegance is when the inside is as beautiful as the outside." – Coco Chanel 🎀💖
 
----
-
-## 🍒 Fun Fact
-> "Elegance is the only beauty that never fades." – Audrey Hepburn ✨
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f7/66/46/f76646b9e8941a4e0b82a593d0e5e52e.gif" width="300" alt="Cute Pink Aesthetic GIF">
-</p>
-
-✨ Feel free to explore my repositories and connect with me! ✨
+✨ **Feel free to explore my dreamy repositories! Let’s create something magical together.** ✨
